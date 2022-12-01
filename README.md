@@ -1,4 +1,4 @@
-# Petit-Gaillard
+# Petit Gaillard
 
 Le Petit Gaillard est un robot assez simple à préparer et à programmer. Il possède deux bras qui peuvent bouger grâce à 4 servomoteurs positionnels. 
 
