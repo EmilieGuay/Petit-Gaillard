@@ -14,6 +14,12 @@ On peut programmer les servomoteurs positionnels pour que leur arbre soit à une
 
 Pour des suggestions d'activités à faire avec le Petit Gaillard, voir les documents dans le dossier "Programmation". 
 
+La première activité se nomme "Petit Gaillard", il existe 3 versions, en fonction de l'application utilisée pour programmer le Petit Gaillard, soit mBlock, Blockly ou Arduino IDE. Les feuiles de postures supplémentaires et le défi ultime peuvent être utiles ici. 
+
+Pour une utilisation du Petit Gaillard avec un modèle d'intelligence artificielle (classification d'images, de sons ou de postures), consulter le répertoire "App-IA" (www.github.com/EmilieGuay/App-IA). 
+
+La deuxième activité se nomme "Faire danser le Petit Gaillard".
+
 ## Matériel et préparation
 
 ### Impression 3D
@@ -49,3 +55,6 @@ De préférence, choisir des servomoteurs qui permettent une alimentation entre 
 ## Vidéos
 
 à venir
+
+
+Des activités supplémentaires seront ajoutées avec le temps
